@@ -1,6 +1,4 @@
-﻿using UtilityBot.Interfaces;
-
-namespace UtilityBot;
+﻿namespace UtilityBot;
 internal class Program
 {
     internal static async Task Main(string[] args)

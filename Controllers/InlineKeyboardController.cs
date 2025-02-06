@@ -1,6 +1,4 @@
-﻿using UtilityBot.Interfaces;
-
-namespace UtilityBot.Controllers;
+﻿namespace UtilityBot.Controllers;
 internal class InlineKeyboardController
 {
 
